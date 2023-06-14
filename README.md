@@ -3,7 +3,7 @@
 ## What's this?
 
 - 🔭 the awareness of how little of the world you'l experience. ✨✨✨
-- It's my e-mail : wyx1627082750@163.com
+- e-mail : wyx1627082750@163.com
 <!--
 **Yeh-Wang/Yeh-Wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
